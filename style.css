@@ -1,0 +1,24 @@
+h1{background-color: blue;padding: 10px;
+    color: chartreuse;text-align: center;}
+    .link{text-align: right;color: chocolate;}
+    ol{color: aqua;}
+    .ol1{color: blue;font-style: italic;
+    background-color: rgb(18, 122, 212);
+    border: 5px solid red;}
+    .own-city
+    {background-color:
+         hotpink;border: 5px solid rgb(116, 49, 5);
+         color: aqua;border-radius: 50em;text-align: center;}
+    span{color: #f30909;}
+    .bagherhat{text-align: center;font-style: italic;
+         color: #2700d6;
+    border: #f30909 solid 5px;
+    border-radius: 10em;background-color: deepskyblue;
+    }
+    ol{border: #2700d6 5px solid;background-color: #f30909;
+    ;font-style: italic;}
+    .box{border: #2700d6 solid 5px;
+          background-color: #04e717;text-align: center;}
+          .finis{text-decoration-line: underline;text-decoration-color: #04e717;
+         display: inline;}
+    .background{background-image: image-set(300px);}   
